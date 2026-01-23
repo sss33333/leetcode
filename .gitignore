@@ -1,0 +1,41 @@
+# ======================
+# LeetCode 刷题 .gitignore
+# ======================
+
+# 编译产物（C/C++）
+*.out
+*.exe
+*.o
+*.obj
+*.so
+*.dll
+a.out
+core
+
+# 可执行文件（按题目名生成的二进制）
+# 假设你的可执行文件和 .cpp 同名（无后缀）
+!*.cpp
+!*.py
+!*.md
+!*.json
+
+# VS Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# 编辑器临时文件
+*～
+.*.swp
+.*.swo
+
+# 日志 & 其他
+*.log
+.DS_Store
+Thumbs.db
+
+# Python 缓存（如果你也刷 Python）
+__pycache__/
+*.pyc
+*.pyo
