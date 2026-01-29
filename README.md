@@ -23,7 +23,7 @@
 | #   | Problem                                 | Status  | Code                |
 | --- | --------------------------------------- | ------- | ------------------- |
 | 1   | Two Sum                                 | ✅      | [array/two_sum.cpp] |
-| 11  | Container With Most Water               | ✅      | 11                  |
+| 11  | Container With Most Water               | ✅      |                     |
 | 15  | 3Sum                                    | ✅ / ❌ |                     |
 | 26  | Remove Duplicates from Sorted Array     | ✅ / ❌ |                     |
 | 27  | Remove Element                          | ✅ / ❌ |                     |
