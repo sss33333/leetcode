@@ -19,10 +19,11 @@
 
 ### 🔹 Array & Two Pointers & Sliding Window (12 problems)
 
+
 | #   | Problem                                 | Status  | Code                |
 | --- | --------------------------------------- | ------- | ------------------- |
 | 1   | Two Sum                                 | ✅      | [array/two_sum.cpp] |
-| 11  | Container With Most Water               | ✅ / ❌ |                     |
+| 11  | Container With Most Water               | ✅      | 11                  |
 | 15  | 3Sum                                    | ✅ / ❌ |                     |
 | 26  | Remove Duplicates from Sorted Array     | ✅ / ❌ |                     |
 | 27  | Remove Element                          | ✅ / ❌ |                     |
@@ -35,6 +36,7 @@
 | 424 | Longest Repeating Character Replacement | ✅ / ❌ |                     |
 
 ### 🔹 Linked List (8 problems)
+
 
 | #   | Problem                          | Status  | Code                            |
 | --- | -------------------------------- | ------- | ------------------------------- |
@@ -49,6 +51,7 @@
 
 ### 🔹 Stack & Queue (5 problems)
 
+
 | #   | Problem                      | Status  | Code |
 | --- | ---------------------------- | ------- | ---- |
 | 20  | Valid Parentheses            | ✅ / ❌ |      |
@@ -58,6 +61,7 @@
 | 739 | Daily Temperatures           | ✅ / ❌ |      |
 
 ### 🔹 Binary Tree & DFS/BFS (14 problems)
+
 
 | #   | Problem                                                   | Status  | Code |
 | --- | --------------------------------------------------------- | ------- | ---- |
@@ -76,6 +80,7 @@
 
 ### 🔹 Backtracking & Recursion (10 problems)
 
+
 | #   | Problem                               | Status  | Code |
 | --- | ------------------------------------- | ------- | ---- |
 | 17  | Letter Combinations of a Phone Number | ✅ / ❌ |      |
@@ -87,6 +92,7 @@
 | ... |                                       | ✅ / ❌ |      |
 
 ### 🔹 Dynamic Programming (DP) (20+ problems, Focus!)
+
 
 | #   | Problem                         | Status  | Code |
 | --- | ------------------------------- | ------- | ---- |
@@ -102,6 +108,7 @@
 | 322 | Coin Change                     | ✅ / ❌ |      |
 
 ### 🔹 Graph & Heap & Hash & Greedy (12 problems)
+
 
 | #   | Problem                         | Status  | Code |
 | --- | ------------------------------- | ------- | ---- |
